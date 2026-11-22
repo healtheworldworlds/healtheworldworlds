@@ -1,18 +1,23 @@
 # Asante Prince
 
-Data analyst, software builder, and UX-minded technologist focused on practical, user-centered tools.
+This repository is the GitHub profile README for Asante Prince. It highlights two active projects:
 
-## Projects
+- [Civio Hub](https://civiohub.com) — a civic and community web platform.
+- [Reality Simulator](https://github.com/healtheworldworlds/reality-simulator) — an interactive simulation project for exploring scenarios and streamlining browser workflows.
 
-### [Civio Hub](https://civiohub.com)
+## Setup and Run
 
-A civic and community web platform.
+No setup or run commands are required. This repository contains profile documentation only and does not include an application, package manifest, dependency configuration, or executable source code.
 
-- [civiohub.com](https://civiohub.com)
-- [healtheworldworlds/civiohub](https://github.com/healtheworldworlds/civiohub)
+## Project Structure
 
-### [Reality Simulator](https://github.com/healtheworldworlds/reality-simulator)
+```text
+README.md    Profile documentation
+```
 
-An interactive simulation project for exploring scenarios and streamlining browser workflows.
+## Usage
 
-- [healtheworldworlds/reality-simulator](https://github.com/healtheworldworlds/reality-simulator)
+Open the project links above to learn more about the active projects:
+
+- [Visit Civio Hub](https://civiohub.com)
+- [View the Reality Simulator repository](https://github.com/healtheworldworlds/reality-simulator)
