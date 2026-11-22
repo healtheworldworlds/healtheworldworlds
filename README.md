@@ -2,7 +2,7 @@
 
 This repository is the GitHub profile README for Asante Prince. It highlights two active projects:
 
-- [Civio Hub](https://civiohub.com) — a civic and community web platform.
+- [Civio Hub](https://civiohub.com) — [Civio repository](https://github.com/iamasanteprince/Civio).
 - [Reality Simulator](https://github.com/iamasanteprince/reality-stimulator) — an interactive simulation project for exploring scenarios and streamlining browser workflows.
 
 ## Setup and Run
@@ -19,5 +19,5 @@ README.md    Profile documentation
 
 Open the project links above to learn more about the active projects:
 
-- [Visit Civio Hub](https://civiohub.com)
+- [Visit Civio Hub](https://civiohub.com) | [View the Civio repository](https://github.com/iamasanteprince/Civio)
 - [View the Reality Simulator repository](https://github.com/iamasanteprince/reality-stimulator)
