@@ -1,23 +1,23 @@
 # Asante Prince
 
-This repository is the GitHub profile README for Asante Prince. It highlights two active projects:
+**iamasanteprince** is a data analyst, software builder, and UX-minded technologist. As a Computer Science student at University of the People with a business and leadership background, he focuses on mentoring emerging tech talent and youth leaders.
 
-- [Civio Hub](https://civiohub.com) — [Civio repository](https://github.com/iamasanteprince/Civio).
-- [Reality Simulator](https://github.com/iamasanteprince/reality-stimulator) — an interactive simulation project for exploring scenarios and streamlining browser workflows.
+## Featured Projects
 
-## Setup and Run
+- [Civio](https://github.com/iamasanteprince/Civio) — [civiohub.com](https://civiohub.com) is a civic and community web platform focused on structured workflows, accessible UX, and organized data and workflow structure.
+- [Reality Simulator](https://github.com/iamasanteprince/reality-stimulator) — a simulation and Node.js / Playwright browser automation project for testing scenarios and streamlining multi-step workflows.
 
-No setup or run commands are required. This repository contains profile documentation only and does not include an application, package manifest, dependency configuration, or executable source code.
+## Core Skills & Focus Areas
 
-## Project Structure
+- Data analytics
+- Programming and automation
+- UX and user-centered design
+- IT and operational problem-solving
+- Leadership and mentorship
 
-```text
-README.md    Profile documentation
-```
+## Connect
 
-## Usage
-
-Open the project links above to learn more about the active projects:
-
-- [Visit Civio Hub](https://civiohub.com) | [View the Civio repository](https://github.com/iamasanteprince/Civio)
-- [View the Reality Simulator repository](https://github.com/iamasanteprince/reality-stimulator)
+- [GitHub](https://github.com/iamasanteprince)
+- [LinkedIn](https://linkedin.com/in/iamasanteprince)
+- [Website](https://civiohub.com)
+- [Email](mailto:iamasanteprince@gmail.com)
